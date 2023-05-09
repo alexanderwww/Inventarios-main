@@ -1,0 +1,37 @@
+.rowTable:hover{
+
+    cursor: pointer;
+}
+
+.styleInputDate{
+    max-width: 150px !important;
+}
+
+
+.sinMargin{
+    margin: 0 !important;
+}
+
+
+.titleItemFacturacion{
+    padding: 1rem 0;
+    background: aliceblue;
+}
+
+.fontSubtitle {
+    font-size: 16px;
+}
+
+.lineaTotal {
+    margin: .5rem 0;
+    border-top: 1px solid;
+}
+
+.gap {
+    padding: 1rem;
+    gap: .3rem;
+}
+
+/* .drp-buttons{
+    display: block !important;
+} */

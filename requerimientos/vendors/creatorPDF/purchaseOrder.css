@@ -1,0 +1,72 @@
+.info__pdf{
+    font-size: 13px;
+    display: block;
+}
+body {
+    font-family: 'arial';
+    font-size: 13px;
+}
+
+#tablepurchaseOrder th {
+    font-size: 23px;
+    font-weight: lighter;
+    font-family: 'arial';
+    width: 2.20in;
+    padding: 4px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    background-color: #00335f;
+    color: #fff;
+}
+
+#tablepurchaseOrder td {
+    font-size: 23px;
+    background: transparent;
+    font-family: 'arial';
+    padding: 7px;
+    color: #000;
+    text-align: center;
+}
+
+
+#tableBalanceTotal th {
+    font-size: 23px;
+    font-weight: lighter;
+    font-family: 'arial';
+    width: 2.20in;
+    padding: 4px;
+    border-spacing: 0;
+
+    border-bottom: 2px solid #000;
+    border-collapse: collapse;
+}
+
+#tableBalanceTotal td {
+    border-bottom: 2px solid #000;
+    font-size: 23px;
+    background: transparent;
+    font-family: 'arial';
+    padding: 7px;
+    color: #000;
+    text-align: center;
+}
+
+
+table{
+    border-collapse:collapse;
+    border: none;
+}
+
+
+.fontZise__description{
+    font-size: 11px;
+}
+
+
+.fontZise__balance{
+    font-size: 20px;
+}
+
+.fontZise__witre{
+    font-size: 15px;
+}

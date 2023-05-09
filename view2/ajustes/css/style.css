@@ -1,0 +1,23 @@
+input[type=number]::-webkit-outer-spin-button,input[type=number]::-webkit-inner-spin-button {
+
+    -webkit-appearance: none;
+
+    margin: 0;
+
+}
+input[type=number] {
+    -moz-appearance:textfield;
+}
+
+.select2-container .select2-selection--single {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+    padding: 0.4375rem 0.875rem !important;
+}
+
+.select2-container--default{
+    width: inherit !important;
+}

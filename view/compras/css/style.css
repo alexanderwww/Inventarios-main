@@ -1,0 +1,32 @@
+input[type=number]::-webkit-outer-spin-button,input[type=number]::-webkit-inner-spin-button {
+
+    -webkit-appearance: none;
+
+    margin: 0;
+
+}
+input[type=number] {
+    -moz-appearance:textfield;
+}
+
+.borderRadiusInputPrice{
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    width: 120px;
+}
+
+.borderRadiusInputLiters{
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    width: 120px;
+}
+
+.borderRadiusInputPercentaje{
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    width: 100px;
+}
+
+.width100{
+    width: 100% !important;
+}

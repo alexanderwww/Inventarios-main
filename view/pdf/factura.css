@@ -1,0 +1,56 @@
+.info__pdf{
+    font-size: 13px;
+    display: block;
+}
+body {
+    font-family: 'arial';
+}
+
+th {
+    font-size: 23px;
+    font-weight: lighter;
+    font-family: 'arial';
+    width: 2.20in;
+    padding: 4px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    background-color: #00335f;
+    color: #fff;
+}
+
+td {
+    font-size: 23px;
+    background: transparent;
+    font-family: 'arial';
+    padding: 7px;
+    color: #000;
+    text-align: center;
+}
+
+
+
+
+/* ---------  */
+
+body {
+    font-family: Futura;
+}
+/* .titulo {
+    font-size: 10px;
+    font-family: "FuturaBook";
+}
+.sinBorde {
+    border-collapse: collapse;
+    border: none;
+}
+.sinBorde tr td {
+    font-size: 8px;
+    border: none;
+}
+#partidas {
+    border-collapse: collapse;
+    font-size: 6px;
+}
+#partidas tr td {
+    font-size: 6px;
+} */

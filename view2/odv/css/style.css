@@ -1,0 +1,40 @@
+.borderRadiusInputPrice{
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    width: 120px;
+}
+
+.borderRadiusInputLiters{
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    width: 120px;
+}
+
+.borderRadiusInputPercentaje{
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    width: 100px;
+}
+
+
+
+
+/* Ajusta el tamaño y el estilo del menú desplegable de Chosen */
+.chosen-container .chosen-single {
+border-radius: 8px;
+padding: 5px;
+display: flex;
+align-items: center;
+height: inherit;
+background: #fff;
+}
+.chosen-container .chosen-results li.highlighted {
+background-color: #107cf9;
+background-image: none;
+}
+
+.chosen-container-active.chosen-with-drop .chosen-single{
+  background-image:none; 
+}
+
+

@@ -1,0 +1,171 @@
+input[type=number]::-webkit-outer-spin-button,input[type=number]::-webkit-inner-spin-button {
+
+
+
+    -webkit-appearance: none;
+
+
+
+    margin: 0;
+
+
+
+}
+
+input[type=number] {
+
+    -moz-appearance:textfield;
+
+}
+
+
+
+
+
+
+
+
+
+.borderRadiusInputPrice{
+
+    border-top-left-radius: 0 !important;
+
+    border-bottom-left-radius: 0 !important;
+
+    width: 120px;
+
+}
+
+
+
+.borderRadiusInputLiters{
+
+    border-top-right-radius: 0 !important;
+
+    border-bottom-right-radius: 0 !important;
+
+    width: 120px;
+
+}
+
+
+
+.borderRadiusInputPercentaje{
+
+    border-top-right-radius: 0 !important;
+
+    border-bottom-right-radius: 0 !important;
+
+    width: 100px;
+
+}
+
+
+
+
+
+.width100{
+
+    width: 100% !important;
+
+}
+
+
+
+/* ---------------------------------  */
+
+
+td {
+    margin: 0 !important;
+    padding: 0 !important;
+    padding-bottom: 0.1rem !important;
+    padding-top: 0.1rem !important;
+    padding-left: 0.3rem !important;
+
+}
+
+.padding_top_bottom_0 {
+    /* padding: 0 !important; */
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+
+#tableMain {
+    font-size: 50% !important;
+}
+
+#tableMain .chosen-single {
+    font-size: 55%;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    height: 1rem !important;
+}
+
+#tableMain .chosen-results {
+    font-size: 55%;
+}
+
+#tableMain .chosen-search-input {
+    font-size: 10px !important;
+}
+
+.styleTh {
+    padding-bottom: 0 !important;
+    padding-right: .3rem;
+    padding-left: .3rem;
+    font-size: .5rem !important;
+}
+
+.btnElimarFila,
+.btnAgregarFila {
+    padding: 0 !important;
+    font-size: 15px !important;
+}
+
+.stylePorcenta_ {
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    font-size: 10px !important;
+}
+
+.stylePorcenta_input {
+
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    width: 1.4rem;
+    font-size: 50%;
+
+}
+
+@media only screen and (max-width: 900px) {
+    .containerTableMain {
+        overflow-x: scroll;
+    }
+
+    body {
+        background: #fff;
+    }
+}
+
+.containerFont{
+    font-size: 10px !important;
+}
+
+
+#TC_input{
+
+    height: 10px;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    width: 1.4rem;
+    font-size: 50%;
+}
+
+.containerCheckTipoMoneda {
+    font-size:.5rem;
+};
+
+
+.responsiveMovil span{
+    font-size: 10px !important;
+}

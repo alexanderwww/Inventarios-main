@@ -1,0 +1,74 @@
+[16-Nov-2022 18:31:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 18:31:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 18:42:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 18:42:33 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 18:42:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 18:42:50 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 18:57:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 18:57:32 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 18:59:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 18:59:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 20:08:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 20:08:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 20:09:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 20:09:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 20:12:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 20:12:28 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 20:12:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 20:12:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 20:13:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 20:13:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 20:13:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 20:13:15 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 20:13:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 20:13:20 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[16-Nov-2022 23:08:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[16-Nov-2022 23:08:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 15:30:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 15:30:27 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 19:49:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 19:49:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 20:46:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 20:46:17 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 21:46:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 21:46:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 21:47:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 21:47:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 21:48:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 21:48:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 21:48:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 21:48:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 21:55:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 21:55:58 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 22:58:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 22:58:49 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:01:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:01:59 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:04:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:04:27 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:07:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:07:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:07:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:07:20 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:07:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:07:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:07:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:07:52 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:07:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:07:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:11:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:11:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:11:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:11:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:13:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:13:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:16:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:16:52 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:21:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:21:06 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:21:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:21:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:21:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:21:20 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6
+[17-Nov-2022 23:21:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 5
+[17-Nov-2022 23:21:32 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/visionremota/public_html/proveedores/facturas/view/login/index.php on line 6

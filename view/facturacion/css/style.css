@@ -1,0 +1,95 @@
+input[type=number]::-webkit-outer-spin-button,input[type=number]::-webkit-inner-spin-button {
+
+
+
+    -webkit-appearance: none;
+
+
+
+    margin: 0;
+
+
+
+}
+
+input[type=number] {
+
+    -moz-appearance:textfield;
+
+}
+
+
+
+
+
+
+
+
+
+.borderRadiusInputPrice{
+
+    border-top-left-radius: 0 !important;
+
+    border-bottom-left-radius: 0 !important;
+
+    width: 120px;
+
+}
+
+
+
+.borderRadiusInputLiters{
+
+    border-top-right-radius: 0 !important;
+
+    border-bottom-right-radius: 0 !important;
+
+    width: 120px;
+
+}
+
+
+
+.borderRadiusInputPercentaje{
+
+    border-top-right-radius: 0 !important;
+
+    border-bottom-right-radius: 0 !important;
+
+    width: 100px;
+
+}
+
+
+
+
+
+.width100{
+
+    width: 100% !important;
+
+}
+
+.minWidth {
+    min-width: 200px !important;
+}
+
+
+
+/* -----------------------------AUTO COMPLETE  */
+
+    /* Cambiar el color de fondo de las sugerencias de autocompletado */
+    .autocomplete-suggestions {
+        background-color: #f1f1f1;
+    }
+
+    /* Cambiar el estilo de fuente y tamaño para las sugerencias de autocompletado */
+    .autocomplete-suggestion {
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+    }
+
+    /* Cambiar el color de fuente para las sugerencias de autocompletado */
+    .autocomplete-suggestion .autocomplete-suggestion-label {
+        color: #333;
+    }

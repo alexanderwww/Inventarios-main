@@ -1,0 +1,49 @@
+.rowTable:hover{
+
+    cursor: pointer;
+}
+
+.fontSubtitle {
+    font-size: 16px;
+}
+
+.lineaTotal {
+    margin: .5rem 0;
+    border-top: 1px solid;
+}
+
+.gap {
+    padding: 1rem;
+    gap: .3rem;
+}
+
+
+
+.sinMargin{
+    margin: 0 !important;
+}
+
+
+.titleItemFacturacion{
+    padding: 1rem 0;
+    background: aliceblue;
+}
+
+
+.statusHiden {
+    display: none;
+    transition: 1s;
+}
+
+.statusShow {
+    display: grid;
+    transition: 1s;
+}
+
+.inactiveInput{
+    display: none !important;
+}
+
+.activeInput{
+    display: block !important;
+}

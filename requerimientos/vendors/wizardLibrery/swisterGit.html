@@ -1,0 +1,117 @@
+<html lang="en" style="--sw-progress-width:50%;"><head>
+
+    <title>EJEMPLO DE IMPLEMENTACION Wizard</title>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link rel="stylesheet" type="text/css" href="./bootstrap-5/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="smart_wizard_all.min.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap-5/font-bootstrap-icons.css">
+
+</head>
+<body style="" class="">
+
+
+  <div class="container">
+ 
+
+    <!-- Button trigger modal -->
+    <div class="text-center">
+      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#swModal">
+        Click 
+      </button>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="swModal" tabindex="-1" aria-labelledby="swModalLabel" style="display: none;" aria-hidden="true">
+      <div class="modal-dialog  modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="swModalLabel">Smart Wizard on Bootstrap Modal</h5>
+
+            <div class="float-end text-muted ms-5">
+              Step number: <span id="sw-current-step">1</span> of <span id="sw-total-step">4</span>
+            </div>
+
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+
+            <!-- SmartWizard html -->
+            <div id="smartwizard" dir="" class="sw sw-justified sw-theme-square">
+                <ul class="nav nav-progress">
+                    <li class="nav-item">
+                      <a class="nav-link default done" href="#step-1">
+                        <div class="num">1</div>
+                        Customer Details
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link default active" href="#step-2">
+                        <span class="num">2</span>
+                        Products Details
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link default done" href="#step-3">
+                        <span class="num">3</span>
+                        Shipping Details
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link default done" href="#step-4">
+                        <span class="num">4</span>
+                        Confirm Order
+                      </a>
+                    </li>
+                </ul>
+
+                <div class="tab-content" style="height: 280.672px;">
+                  <div id="step-1" class="tab-pane" role="tabpanel" aria-labelledby="step-1" style="display: none;">
+                      <h3>Step 1 Content</h3>
+                      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                  </div>
+                  <div id="step-2" class="tab-pane" role="tabpanel" aria-labelledby="step-2" style="display: block;">
+                    <h3>Step 2 Content</h3>
+                    <div>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </div>
+                  </div>
+                    <div id="step-3" class="tab-pane" role="tabpanel" aria-labelledby="step-3" style="display: none;">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    </div>
+                    <div id="step-4" class="tab-pane" role="tabpanel" aria-labelledby="step-4" style="display: none;">
+                        <h3>Step 4 Content</h3>
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    </div>
+                </div>
+
+                <div class="progress">
+                  <div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+
+          </div>
+          <div class="modal-footer">
+            <button class="btn btn-primary" id="prev-btn-modal">Previous</button>
+            <button class="btn btn-primary" id="next-btn-modal">Next</button>
+            <button class="btn btn-success" onclick="onFinish()">Finish</button>
+            <button class="btn btn-secondary" onclick="onCancel()">Cancel</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br> &nbsp;
+  </div>
+
+
+    <script type="text/javascript" src="./bootstrap-5/js/bootstrap.bundle.min.js"></script>
+
+    <script type="text/javascript" src="./jquery/jquery-3.6.0.min.js"></script>
+
+    <script type="text/javascript" src="./jquery.smartWizard.min.js"></script>
+
+    <script type="text/javascript" src="./switerGit.js"></script>
+
+</body></html>

@@ -1,0 +1,2 @@
+[13-Mar-2023 15:58:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/visionremota/public_html/5inco/requerimientos/headers/header.php on line 35
+[07-Apr-2023 18:09:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/visionremota/public_html/5inco/requerimientos/headers/header.php on line 35
